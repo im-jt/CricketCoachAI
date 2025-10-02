@@ -1,0 +1,5 @@
+{
+  "name": "AI Cricket Coach",
+  "description": "A web-based cricket technique analyzer that allows users to upload bowling action and batting technique videos to receive AI-powered feedback and improvement suggestions for their cricket skills.",
+  "requestFramePermissions": []
+}
