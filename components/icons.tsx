@@ -15,7 +15,7 @@ export const CricketIcon: React.FC<IconProps> = ({ className }) => (
 
 export const BatIcon: React.FC<IconProps> = ({ className }) => (
   <svg xmlns="http://www.w3.org/2000/svg" className={className} viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
-    <path d="M14 14l- астрономический-6-6"></path>
+    <path d="M14 14l-6-6"></path>
     <path d="M14.5 21a2 2 0 1 1-2.8-2.8l5-5a2 2 0 0 1 2.8 2.8l-5 5z"></path>
     <path d="m11 11 2.5 2.5"></path>
     <path d="M9 13 4 8l1.5-1.5 5 5L8 14Z"></path>
